@@ -19,7 +19,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,vscode,selenium,regex,mysql,maven,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,html,css,vscode,selenium,regex,mysql,maven,linux" />
   </a>
 </p>
 
