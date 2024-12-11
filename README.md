@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,rust,php,bash" />
+    <img src="https://skillicons.dev/icons?i=java,python,rust,nodejs,php,bash" />
   </a>
 </p>
 <h3 align="center">
@@ -19,7 +19,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,selenium,regex,mysql,maven,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,vscode,selenium,regex,mysql,maven,linux" />
   </a>
 </p>
 
