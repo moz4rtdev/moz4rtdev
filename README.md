@@ -23,9 +23,6 @@
   </a>
 </p>
 
-## 📋Projects
-- I'm currently working on a web automation in which the bot will perform micro tasks, the bot system will include a CRUD for selling it, you can see more details [here](https://t.me/thirtyfourbotsweb_channel)
-- Soon I will create an account checker for the most diverse websites, it will be done in Java
 
 ## 📩Contact
 <a href="https://t.me/westsidedev" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-%2523333?style=for-the-badge&logo=telegram&logoColor=white&logoSize=amg&color=blue" >
