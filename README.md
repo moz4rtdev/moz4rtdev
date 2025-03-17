@@ -2,8 +2,8 @@
 
 <p align="center">
   <a>
-    <img src="https://github-readme-stats-nu-ten-24.vercel.app/api/top-langs/?username=westsidedev&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent" height=195 />
-    <img src="https://github-readme-stats-nu-ten-24.vercel.app/api?username=westsidedev&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats-nu-ten-24.vercel.app/api/top-langs/?username=mallocdev&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent" height=195 />
+    <img src="https://github-readme-stats-nu-ten-24.vercel.app/api?username=mallocdev&show_icons=true&theme=transparent" />
   </a>
 </p>
 
