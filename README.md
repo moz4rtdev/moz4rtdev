@@ -39,4 +39,7 @@ fn main() {
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://t.me/mallocdev" title="Telegram" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-Telegram?style=flat-square&logo=telegram&logoSize=auto&color=gray&link=https://t.me/mallocdev" alt="Telegram"></a>
+  <a href="https://x.com/malloc_dev">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Twitter-Twitter?logo=X&color=black"></a>
+
 </p>
