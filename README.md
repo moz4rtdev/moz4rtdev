@@ -23,11 +23,11 @@ fn main() {
   <h3>💼 Ferramentas:</h3>
 </p>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,html,css,vscode,selenium,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,html,css,vscode,selenium,linux" height="35px"/>
 </a>
 
 <p align="left">
-  <h3>💌 Contato: ⤵️</h3>
+  <h3>💌 Contato: </h3>
 </p>
 
 <p align="left">
